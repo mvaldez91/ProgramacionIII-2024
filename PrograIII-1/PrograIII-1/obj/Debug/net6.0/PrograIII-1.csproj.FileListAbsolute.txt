@@ -1,0 +1,15 @@
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\bin\Debug\net6.0\PrograIII-1.exe
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\bin\Debug\net6.0\PrograIII-1.deps.json
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\bin\Debug\net6.0\PrograIII-1.runtimeconfig.json
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\bin\Debug\net6.0\PrograIII-1.dll
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\bin\Debug\net6.0\PrograIII-1.pdb
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.csproj.AssemblyReference.cache
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.AssemblyInfoInputs.cache
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.AssemblyInfo.cs
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.csproj.CoreCompileInputs.cache
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.dll
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\refint\PrograIII-1.dll
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.pdb
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\PrograIII-1.genruntimeconfig.cache
+C:\Users\Marco\Documents\UMG\Programacion III\2024\PrograIII-1\PrograIII-1\obj\Debug\net6.0\ref\PrograIII-1.dll
