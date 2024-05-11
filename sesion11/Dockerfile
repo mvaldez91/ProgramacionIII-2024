@@ -6,5 +6,7 @@ ARG DB_SERVER
 ENV DB_SERVER $DB_SERVER
 ARG DB_PASSWORD
 ENV DB_PASSWORD $DB_PASSWORD
+ARG DB_PORT
+ENV DB_PORT $DB_PORT
 COPY application.properties application.properties
 ENTRYPOINT ["java","-jar","/app.jar"]

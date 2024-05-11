@@ -1,17 +1,13 @@
-package com.umg.sesion10;
+package com.sesion14.demo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
-
-public class Sesion10Application {
+public class DemoApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Sesion10Application.class, args);
+		SpringApplication.run(DemoApplication.class, args);
 	}
-
-
 
 }

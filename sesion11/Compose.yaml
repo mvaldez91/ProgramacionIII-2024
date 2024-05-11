@@ -16,7 +16,8 @@ services:
         - JAR_FILE=target/*.jar
         - DB_PASSWORD=password
         - DB_SERVER=mysql-db
-    container_name: 'umg-sesion10'
+        - DB_PORT=3306
+    container_name: 'umg-sesion12'
     ports:
       - '8080:8080'
     links:
